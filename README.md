@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IbnNur
 - 👀 I’m interested in MultiPlatforms development
 - 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on a medium ou big project
+- 💞️ I’m looking to collaborate on a medium or big project
 - 📫 How to reach me Whatsapp: +258846291685 Facebook: facebook.com/ntchambalukha
 
 <!---

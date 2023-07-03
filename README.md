@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbnNur
+- 👋 Hi, I’m Nazir Abibo Francisco Daúdo
 - 👀 I’m interested in MultiPlatforms development
 - 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on a medium or big project

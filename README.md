@@ -1,7 +1,16 @@
-- 👋 Hi, I’m Nazir Abibo Francisco Daúdo
-- 👀 I’m interested in MultiPlatforms development
-- 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on a medium or big project
+Hey there 👋 I’m Nazir Daúdo!
+
+🎓 BSc in Information Technologies
+
+💡 Passionate about AI, software development, and IT support
+
+🌍 Experienced in digital transformation projects across healthcare, education, and public services
+
+🏆 Huawei Seeds for the Future 2023 (Best Tech4Good Project)
+
+🌱 Aspire Leaders Program 2025 participant
+
+📌 On this GitHub, you’ll find my journey through programming, data, and innovation — from Android apps to AI-powered healthcare solutions.
 - 📫 How to reach me Whatsapp: +258846291685 Facebook: facebook.com/ntchambalukha
 
 <!---
